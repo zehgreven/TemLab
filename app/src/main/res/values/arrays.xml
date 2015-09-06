@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="period">
+        <item>Manhã</item>
+        <item>Tarde</item>
+        <item>Noite</item>
+    </string-array>
+
+    <string-array name="classe">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+
+    <string-array name="curse">
+        <item>ADMINISTRAÇÃO</item>
+        <item>AGRONEGÓCIO</item>
+        <item>AGRONEGÓCIO (EAD)</item>
+        <item>AGRONOMIA</item>
+        <item>ARQ. E URBANISMO</item>
+        <item>ARTES VISUAIS</item>
+        <item>AUT. INDUSTRIAL</item>
+        <item>BACHARELADO EM CIÊNCIAS CONTÁBEIS (EAD)</item>
+        <item>BACHARELADO EM SERVIÇO SOCIAL (EAD)</item>
+        <item>BIOMEDICINA</item>
+        <item>CIÊNCIAS BIOLÓGICAS - BACHARELADO</item>
+        <item>CIÊNCIAS BIOLÓGICAS - LICENCIATURA</item>
+        <item>CIÊNCIAS CONTÁBEIS</item>
+        <item>CST - ANÁLISE E DESENVOLVIMENTO SISTEMAS</item>
+        <item>CST - COMÉRCIO EXTERIOR</item>
+        <item>CST - ESTETICA E COSMETICA</item>
+        <item>CST - GESTÃO COMERCIAL</item>
+        <item>CST - MARKETING</item>
+        <item>CST - PROD. SUCROALCOOLEIRA</item>
+        <item>CST - SISTEMAS PARA INTERNET</item>
+        <item>DESIGN DE INTERIORES</item>
+        <item>DIREITO</item>
+        <item>ED. FÍSICA BACHARELADO</item>
+        <item>ED. FÍSICA LICENCIATURA</item>
+        <item>ENFERMAGEM</item>
+        <item>ENG. CIVIL</item>
+        <item>ENG. DE SOFTWARE</item>
+        <item>ENG. ELÉTRICA</item>
+        <item>ENG. MECATRÔNICA</item>
+        <item>ENGENHARIA AMBIENTAL</item>
+        <item>FARMÁCIA</item>
+        <item>FISIOTERAPIA</item>
+        <item>FONOAUDIOLOGIA</item>
+        <item>GASTRONOMIA</item>
+        <item>GESTÃO COMERCIAL (EAD)</item>
+        <item>GESTÃO DE RECURSOS HUMANOS (EAD)</item>
+        <item>GESTÃO DE RECURSOS HUMANOS</item>
+        <item>GESTÃO FINANCEIRA (EAD)</item>
+        <item>GRADUAÇÃO EM ADMINISTRAÇÃO (EAD)</item>
+        <item>GRADUAÇÃO EM TURISMO</item>
+        <item>JORNALISMO</item>
+        <item>LETRAS - PORT./ING.</item>
+        <item>LICENCIATURA EM GEOGRAFIA (EAD)</item>
+        <item>LICENCIATURA EM HISTÓRIA (EAD)</item>
+        <item>LICENCIATURA EM LETRAS - PORTUGUÊS - INGLÊS (EAD)</item>
+        <item>LOGÍSTICA</item>
+        <item>MBA EM GESTÃO ESTRATÉGICA E ECONÔMICA DE NEGÓCIOS</item>
+        <item>MED. VETERINÁRIA</item>
+        <item>MEDICINA</item>
+        <item>MODA</item>
+        <item>MÚSICA</item>
+        <item>NEGÓCIOS IMOBILIÁRIOS (EAD)</item>
+        <item>NUTRIÇÃO</item>
+        <item>ODONTOLOGIA</item>
+        <item>PEDAGOGIA (EAD)</item>
+        <item>PEDAGOGIA (Licenciatura)</item>
+        <item>PILOTAGEM PROFISSIOAL DE AERONAVES</item>
+        <item>PSICOLOGIA</item>
+        <item>PUB.E PROPAGANDA</item>
+        <item>REDES DE COMPUTADORES</item>
+        <item>SERVIÇO SOCIAL</item>
+        <item>SIST.DE INFORMAÇÃO</item>
+        <item>SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (EAD)</item>
+        <item>SUPERIOR DE TECNOLOGIA EM GESTÃO AMBIENTAL (EAD)</item>
+        <item>SUPERIOR DE TECNOLOGIA EM GESTÃO PÚBLICA (EAD)</item>
+        <item>SUPERIOR DE TECNOLOGIA EM LOGÍSTICA (EAD)</item>
+        <item>SUPERIOR DE TECNOLOGIA EM MARKETING (EAD)</item>
+        <item>SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET (EAD)</item>
+        <item>TECNOLOGIA EM MANUTENÇÃO DE AERONAVES</item>
+        <item>TECNOLOGIA EM PROCESSOS GERENCIAIS (EAD)</item>
+        <item>TEOLOGIA (EAD)</item>
+        <item>TEOLOGIA</item>
+        <item>TUR</item>
+        <item>TURISMO E HOTELARIA</item>
+    </string-array>
+
+    <string-array name="acronimo">
+        <item>ADM</item>
+        <item>CST_AGRO</item>
+        <item>EGRAD_AGRO</item>
+        <item>AGRON</item>
+        <item>ARQ</item>
+        <item>ART</item>
+        <item>AUT</item>
+        <item>EGRAD_CCONT</item>
+        <item>EGRAD_SER</item>
+        <item>BIO</item>
+        <item>CBIO-B</item>
+        <item>CBIO</item>
+        <item>CCONT</item>
+        <item>CST_ADSIS</item>
+        <item>CST_COMEX</item>
+        <item>CST_COSM</item>
+        <item>CST_COML</item>
+        <item>CST_MKT</item>
+        <item>CST_SUCRO</item>
+        <item>CST_SISIN</item>
+        <item>DINT</item>
+        <item>DIR</item>
+        <item>EDU-B</item>
+        <item>EDU</item>
+        <item>ENF</item>
+        <item>CIV</item>
+        <item>ESOFT</item>
+        <item>ELET</item>
+        <item>MEC</item>
+        <item>AMB</item>
+        <item>FAR</item>
+        <item>FIS</item>
+        <item>FON</item>
+        <item>GAS</item>
+        <item>EGRAD_GCOM</item>
+        <item>EGRAD_RH</item>
+        <item>RH</item>
+        <item>EGRAD_GFIN</item>
+        <item>EGRAD_ADM</item>
+        <item>TUR-B</item>
+        <item>JOR</item>
+        <item>LING</item>
+        <item>EGRAD_GEO</item>
+        <item>EGRAD_HIST</item>
+        <item>EGRAD_LET</item>
+        <item>CST_LOG</item>
+        <item>MBA_GESTÃO ESTRATÉGI</item>
+        <item>VET</item>
+        <item>MED</item>
+        <item>MO</item>
+        <item>MUS</item>
+        <item>EGRAD_GIMOB</item>
+        <item>NUT</item>
+        <item>ODO</item>
+        <item>EGRAD_PED</item>
+        <item>PEDAG</item>
+        <item>CST_PIL</item>
+        <item>PSI</item>
+        <item>PUB</item>
+        <item>RED</item>
+        <item>SER</item>
+        <item>SIS</item>
+        <item>EGRAD_ADSIS</item>
+        <item>EGRAD_GAMB</item>
+        <item>EGRAD_GPUB</item>
+        <item>EGRAD_LOG</item>
+        <item>EGRAD_MKT</item>
+        <item>EGRAD_SISIN</item>
+        <item>CST_MAERO</item>
+        <item>EGRAD_PGER</item>
+        <item>EGRAD_TEO</item>
+        <item>TEO</item>
+        <item>TUR</item>
+        <item>TURISMO E HOTELARIA</item>
+    </string-array>
+
+</resources>
